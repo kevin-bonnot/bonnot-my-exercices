@@ -1,4 +1,4 @@
-export const my_is_pos_neg = (nbr) => {
+export const my_is_posi_neg = (nbr) => {
     if (nbr > 0) {
        return 'POSITIF';
     }
