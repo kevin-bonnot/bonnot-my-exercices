@@ -7,5 +7,3 @@ export const my_display_comb = () => {
     }
     return tab;
 }
-
-console.log(my_display_comb().length)
